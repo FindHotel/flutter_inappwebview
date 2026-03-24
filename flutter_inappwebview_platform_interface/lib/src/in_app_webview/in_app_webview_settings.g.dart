@@ -2183,7 +2183,7 @@ class InAppWebViewSettings {
     this.iframeCsp,
     this.iframeRole,
     this.iframeAriaHidden,
-    this.paymentRequestEnabled = false}
+    this.paymentRequestEnabled = false,
     this.enableWriteConsoleMessagesToStdout = false,
     this.enableSmoothScrolling = true,
     this.enableCaretBrowsing = false,
